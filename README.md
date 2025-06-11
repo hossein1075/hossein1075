@@ -32,7 +32,10 @@
 ---
 
 ### 🛠️ Language Stats
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hossein1075&layout=compact&theme=radical)
+
+<a href="https://github.com/hossein1075">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hossein1075" />
+</a>
 
 ---
 
