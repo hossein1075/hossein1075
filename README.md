@@ -4,7 +4,7 @@
 ---
 
 - 🔭 I’m currently working on **mini frontend projects**
-- 🌱 I’m currently learning **NPM** and diving deeper into **JavaScript**
+- 🌱  I’m currently learning **Tailwind CSS**
 - 📫 Reach me at: **hosseinh1075@gmail.com**
 - 📍 Location: **Karaj, Iran**
 - ⚡ Fun fact: I enjoy turning ideas into websites one pixel at a time 😉
@@ -15,10 +15,13 @@
 <p>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Flexbox-F7DF1E?style=for-the-badge&logo=css3&logoColor=000000" alt="Flexbox" />
+  <img src="https://img.shields.io/badge/CSS_Grid-007acc?style=for-the-badge&logo=css3&logoColor=white" alt="CSS Grid" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
   <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/NPM-CB3837?style=for-the-badge&logo=npm&logoColor=white" alt="NPM" />
 </p>
 
 ---
