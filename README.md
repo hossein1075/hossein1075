@@ -4,7 +4,7 @@
 ---
 
 - 🔭 I’m currently working on **mini frontend projects**
-- 🌱  I’m currently learning **Tailwind CSS**
+- 🌱  I’m currently learning **React**
 - 📫 Reach me at: **hosseinh1075@gmail.com**
 - 📍 Location: **Karaj, Iran**
 - ⚡ Fun fact: I enjoy turning ideas into websites one pixel at a time 😉
@@ -22,6 +22,7 @@
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   <img src="https://img.shields.io/badge/NPM-CB3837?style=for-the-badge&logo=npm&logoColor=white" alt="NPM" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
 </p>
 
 ---
