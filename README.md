@@ -4,7 +4,7 @@
 ---
 
 - 🔭 I’m currently working on **mini frontend projects**
-- 🌱  I’m currently learning **React**
+- 🌱  I’m currently learning **TypeScript**
 - 📫 Reach me at: **hosseinh1075@gmail.com**
 - 📍 Location: **Karaj, Iran**
 - ⚡ Fun fact: I enjoy turning ideas into websites one pixel at a time 😉
@@ -24,6 +24,8 @@
   <img src="https://img.shields.io/badge/NPM-CB3837?style=for-the-badge&logo=npm&logoColor=white" alt="NPM" />
   <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
   <img src="https://img.shields.io/badge/MUI-007FFF?style=for-the-badge&logo=mui&logoColor=white" alt="MUI" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" />
+  <img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white" alt="Redux" />
 </p>
 
 ---
